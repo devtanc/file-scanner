@@ -1,5 +1,5 @@
 # file-scanner
-Upon running `node scanner.js` you can create new files in the /scan directory.
+Upon running `node scanner.js` you can create new files in the `/scan` directory.
 When a new file is created, the scanner will pick it up, but will not require that file
 until the file is modified and saved. The file should have this format (simply for the basic code that in there):
 ```
